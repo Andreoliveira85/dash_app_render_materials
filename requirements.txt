@@ -2,4 +2,5 @@ dash ==2.8.1
 pandas
 numpy
 plotly == 5.13.0
+scipy
 gunicorn
